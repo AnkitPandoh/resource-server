@@ -1,7 +1,8 @@
+## Below properties should be updated as per your authorization server configuration
 server:
  port: 8081
 jwt:
- issuerUrl: https://dev-142471.oktapreview.com/oauth2/default
+ issuerUrl: https://<my-dev-account>.oktapreview.com/oauth2/default
  aud: api://default
- clientId: 0oaddfun8w82z2B5j0h7
+ clientId: <my-client-id>
 serverResourceId: api://default
