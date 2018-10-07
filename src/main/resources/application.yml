@@ -1,0 +1,7 @@
+server:
+ port: 8081
+jwt:
+ issuerUrl: https://dev-142471.oktapreview.com/oauth2/default
+ aud: api://default
+ clientId: 0oaddfun8w82z2B5j0h7
+serverResourceId: api://default
